@@ -6,6 +6,8 @@
 
 1. **Azure Boards:** [Acessar Plano de testes](https://dev.azure.com/Challenge-Mottu/SmartPatio/_boards/board/t/SmartPatio%20Team/Features)
 
+2. Vídeo da execução dos **testes de automação:** [Assistir no YouTube](https://youtu.be/seu-video)
+
 ---
 
 ## 1. Problema
