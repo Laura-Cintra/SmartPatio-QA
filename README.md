@@ -2,6 +2,12 @@
 
 <img src="logo-app-dark.png" alt="Logo do Projeto" width="120" height="120">
 
+## 🔗 Links Entregáveis
+
+1. **Azure Boards:** [Acessar Plano de testes](https://dev.azure.com/Challenge-Mottu/SmartPatio/_boards/board/t/SmartPatio%20Team/Features)
+
+---
+
 ## 1. Problema
 
 Atualmente, o processo de **gestão e localização das motos nos pátios da Mottu** é manual e pouco eficiente.  
@@ -28,11 +34,11 @@ Essa integração torna o processo mais **ágil**, **automatizado** e **confiáv
 
 ## Integrantes
 
-| Nome                              | RM     | GitHub                                             |
-| --------------------------------- | ------ | -------------------------------------------------- |
-| **Laura de Oliveira Cintra**      | 558843 | [@Laura-Cintra](https://github.com/Laura-Cintra)   |
-| **Maria Eduarda Alves da Paixão** | 558832 | [@MariaEdPaixao](https://github.com/MariaEdPaixao) |
-| **Vinícius Saes de Souza**        | 554456 | [@ViniciuSaeSouza](https://github.com/ViniciuSaeSouza) |
+| Nome                              | RM     | Turma  | GitHub                                             |
+| --------------------------------- | ------ | ------ | -------------------------------------------------- |
+| **Laura de Oliveira Cintra**      | 558843 | 2TDSPJ | [@Laura-Cintra](https://github.com/Laura-Cintra)   |
+| **Maria Eduarda Alves da Paixão** | 558832 | 2TDSPJ | [@MariaEdPaixao](https://github.com/MariaEdPaixao) |
+| **Vinícius Saes de Souza**        | 554456 | 2TDSPY | [@ViniciuSaeSouza](https://github.com/ViniciuSaeSouza) |
 
 ---
 > **SmartPátio** - Tecnologia a favor da eficiência operacional nos pátios da Mottu.
