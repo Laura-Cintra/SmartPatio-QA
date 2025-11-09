@@ -2,10 +2,6 @@
 
 <img src="logo-app-dark.png" alt="Logo do Projeto" width="120" height="120">
 
-## 🔗 Links Entregáveis
-
-1. **Azure Boards:** [Acessar Plano de testes](https://dev.azure.com/Challenge-Mottu/SmartPatio/_boards/board/t/SmartPatio%20Team/Features)
-
 ---
 
 ## 1. Problema
